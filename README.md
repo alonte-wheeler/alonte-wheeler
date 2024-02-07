@@ -1,11 +1,13 @@
-<h1>Hi, my name is Alonte! 👋🏾 </h1>
+<h1>Hello, my name is Alonte! 👋🏾 </h1>
 
 USAF Vet & Cybersecurity Professional! Dedicated to improving my proficiency in threat analysis and enthusiastic about all things related to cybersecurity. 🛡️🔒
   
 
 <h2> 👨🏾‍💻 Cybersecurity Projects:</h2>
   
-         🔍👀
+  - [Active Directory Homelab]() 💼
+  - [Packet Analysis Lab with -intro to tcpump and Wireshark]() 🔍👀
+        
   - More projects Soon!
     
 <h2>📃 Certifications </h2>
